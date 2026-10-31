@@ -1,0 +1,6 @@
+{
+  "name": "LexisListen — IELTS Listening Teaching Studio",
+  "description": "Interactive IELTS Listening classroom studio with AI audio transcription, line-by-line and section loop playback, per-line transcript masking for blind listening drills, and screenshot question extraction.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
